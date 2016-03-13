@@ -8,9 +8,12 @@ Completed user stories:
 
 Notes:
 Tried to make the slider move too, according to segmented control chosen (and vice versa). Didn't work. Will be emailing for help.
-
+</break>
 
 Walkthrough of all user stories:
+
+
+![alt tag](https://github.com/exbeim/Tippytap/blob/4b1f15a0fc0727dadedb3ed5446ca49765140b6d/Tippytap%20Walkthrough.gif)
 
 
 Gif was created with LiceCap
